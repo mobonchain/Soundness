@@ -44,7 +44,12 @@ Cài đặt Rust bằng các lệnh sau:
 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+```bash
 source $HOME/.cargo/env
+```
+Kiểm tra version:
+```bash
 rustc --version
 cargo --version
 ```
@@ -55,6 +60,8 @@ cargo --version
 
 ```bash
 echo 'source $HOME/.cargo/env' >> ~/.bashrc
+```
+```bash
 source ~/.bashrc
 ```
 
@@ -64,7 +71,11 @@ Cài đặt Soundness bằng cách chạy các lệnh sau:
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
+```
+```bash
 source ~/.bashrc
+```
+```bash
 soundnessup
 ```
 
