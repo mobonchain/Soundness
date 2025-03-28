@@ -17,7 +17,8 @@ Làm theo các bước dưới đây để tham gia **Testnet Soundness** và b�
 2. **Tạo Khóa Của Bạn**
    - Tải về và làm theo hướng dẫn từ **[Soundness CLI GitHub](https://github.com/SoundnessLabs/soundness-layer/tree/main/soundness-cli)** để tạo khóa của bạn
    - Lưu **Phrase** và **Pubkey** của bạn để tham khảo sau này
-* Có thể cài đặt trực tiếp bằng **Codespace** của **GitHub**
+     
+* Có thể cài đặt trực tiếp bằng **Codespaces** của **GitHub**
 
 3. **Tham Gia Discord**
    - Tham gia Discord của Soundness: **[Soundness Discord](https://discord.gg/HC3aDHrA93)**
